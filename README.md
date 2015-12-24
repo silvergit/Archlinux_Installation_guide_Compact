@@ -106,4 +106,6 @@ Server = http://repo.archlinux.fr/x86_64
 
 `# systemctl enable gdm.service`
 
+`# systemctl enable NetworkManager.service`
+
 `# pacman -S mplayer dvd+rw-tools libdvdread libdvdcss ntfs-3g dosfstools gstreamer0.10-{bad,base,good,ugly}-plugins gstreamer0.10-{base,ffmpeg,good,ugly} flashplugins vlc firefox smplayer pidgin goldendict rhythmbox gimp libreoffice-fresh conky plank wine`
